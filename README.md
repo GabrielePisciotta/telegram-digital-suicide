@@ -6,7 +6,7 @@ sent in specified groups, committing a so called «digital suicide».
 ```$ pip3 install Telethon```
 
 ## Modify config.py
-There are for parameters you have to set:
+There are four parameters you have to set:
 - api_id 
 - api_hash 
 - my_id 
